@@ -1,5 +1,5 @@
 # technical-debt-and-software-trustworthiness
-Exploring the Relation between Technical Debt and Software Trustworthiness
+Exploring the Relation between Technical Debt and Software Trustworthiness by using Data Science & ML methods
 
 This study is based on the following article:
 
